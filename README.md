@@ -1,3 +1,3 @@
-# Code files for a YouTube walkthrough for pybind11
+Pybind11 demostration project
 
-https://www.youtube.com/playlist?list=PLb9uFnQyeGTcKIHNUNUUuLbRhumAZd-fy
+This project contains files to demostrate the use of Pybind11 to run C++ functions in Python
